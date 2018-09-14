@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: studentOnlineInfo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sir_Chris
+Implementation-Vendor-Id: com.example.studentInfo
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/studentOnlineInfo
+Created-By: Maven Integration for Eclipse
+
